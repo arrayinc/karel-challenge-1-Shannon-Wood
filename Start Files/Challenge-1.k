@@ -23,6 +23,7 @@ decompose the program so that it includes a function for each step
 shown in the outline.
  */
 
+/* NICE ! */
 
 import "turns";
 
